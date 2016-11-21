@@ -579,4 +579,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/kinzie/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/motorola/kinzie/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
     vendor/motorola/kinzie/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
-    vendor/motorola/kinzie/proprietary/bin/ssr_setup:system/bin/ssr_setup
+    vendor/motorola/kinzie/proprietary/bin/ssr_setup:system/bin/ssr_setup \
+    vendor/motorola/kinzie/proprietary/priv-app/DMService/lib/arm/libdmengine.so:system/priv-app/DMService/lib/arm/libdmengine.so \
+    vendor/motorola/kinzie/proprietary/priv-app/DMService/lib/arm/libdmjavaplugin.so:system/priv-app/DMService/lib/arm/libdmjavaplugin.so 
