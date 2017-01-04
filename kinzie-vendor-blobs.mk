@@ -121,7 +121,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/kinzie/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
     vendor/motorola/kinzie/proprietary/etc/permissions/com.motorola.camera.xml:system/etc/permissions/com.motorola.camera.xml \
     vendor/motorola/kinzie/proprietary/etc/permissions/com.motorola.gallery.xml:system/etc/permissions/com.motorola.gallery.xml \
-    vendor/motorola/kinzie/proprietary/lib/hw/camera.msm8994.so:system/lib/hw/camera.msm8994.vendor.so \
+    vendor/motorola/kinzie/proprietary/lib/hw/camera.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/motorola/kinzie/proprietary/lib/libmot_lux_standardization.so:system/lib/libmot_lux_standardization.so \
     vendor/motorola/kinzie/proprietary/lib/libadvalgcore.so:system/lib/libadvalgcore.so \
     vendor/motorola/kinzie/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
